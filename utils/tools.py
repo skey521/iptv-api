@@ -355,7 +355,7 @@ def convert_to_m3u():
     user_final_file = resource_path(config.final_file)
     if os.path.exists(user_final_file):
         with open(user_final_file, "r", encoding="utf-8") as file:
-            m3u_output = '#EXTM3U x-tvg-url="http://live.xn--2os270e.site/epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}/e.xml"\n'
+            m3u_output = '#EXTM3U x-tvg-url="http://lives.xn--2os270e.site/epg.xml.gz,https://e.erw.cc/all.xml.gz,https://live.fanmingming.cn/e.xml,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}/e.xml"\n'
             current_group = None
             for line in file:
                 trimmed_line = line.strip()
