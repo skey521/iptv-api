@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="http://xn--2os270e.site//epg.xml.gz,https://e.erw.cc/all.xml.gz,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="关注公众号" tvg-logo="https://live.fanmingming.cn/tv/关注公众号.png" group-title="公告提示",关注公众号
 https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
 #EXTINF:-1 tvg-name="墨白短剧库" tvg-logo="https://live.fanmingming.cn/tv/墨白短剧库.png" group-title="公告提示",墨白短剧库
