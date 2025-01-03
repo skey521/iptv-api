@@ -650,7 +650,7 @@ def write_channel_to_file(data, ipv6=False, callback=None):
             write_content_into_txt(f"关注公众号,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4", path)
             write_content_into_txt(f"墨白短剧库,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4", path)
             write_content_into_txt(f"🕘更新时间,https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4", path)
-	    write_content_into_txt(f"{update_time},https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4", path)
+            write_content_into_txt(f"{update_time},https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4", path)
             write_content_into_txt("", path)
         for cate, channel_obj in data.items():
             print(f"\n{cate}:", end=" ")
