@@ -1,4 +1,4 @@
-📺央视频道,#genre#
+央视频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
@@ -22,7 +22,7 @@ CETV2
 CETV4
 CETV5
 
-📡卫视频道,#genre#
+卫视频道,#genre#
 广东卫视
 香港卫视
 浙江卫视
@@ -58,7 +58,7 @@ CETV5
 新疆卫视
 云南卫视
 
-🎬电影频道,#genre#
+电影频道,#genre#
 CHC家庭影院
 CHC动作电影
 CHC高清电影
@@ -93,7 +93,7 @@ NewTv欢乐剧场
 NewTv金牌综艺
 NewTv精品萌宠
 
-🎥iHOT,#genre#
+iHOT,#genre#
 iHOT爱院线
 iHOT爱科幻
 iHOT爱浪漫
@@ -110,7 +110,7 @@ iHOT爱历史
 iHOT爱科学
 iHOT爱动漫
 
-🏀体育频道,#genre#
+体育频道,#genre#
 CCTV-5
 CCTV-5+
 广东体育
@@ -139,7 +139,7 @@ CCTV-5+
 魅力足球
 天元围棋
 
-🪁动画频道,#genre#
+动画频道,#genre#
 少儿动画
 卡酷动画
 动漫秀场
@@ -166,7 +166,7 @@ CN卡通
 经典动漫
 蜡笔小新
 
-🏛经典剧场,#genre#
+经典剧场,#genre#
 笑傲江湖
 天龙八部
 鹿鼎记
