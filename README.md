@@ -60,41 +60,8 @@
   🏛经典剧场: 笑傲江湖, 天龙八部, 鹿鼎记, 仙剑奇侠传, 西游记, 三国演义, 水浒传, 新白娘子传奇, 天龙八部, 济公游记, 封神榜, 闯关东, 上海滩, 射雕英雄传
   </div>
 </details>
-<br>
-<p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
-  </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total" />
-  </a>
-  <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
-    <img src="https://img.shields.io/docker/pulls/guovern/iptv-api" />
-  </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
-    <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
-  </a>
-</p>
 
 [English](./README_en.md) | 中文
-
-- [✅ 特点](#特点)
-- [🔗 最新结果](#最新结果)
-- [⚙️ 配置参数](#配置)
-- [🚀 快速上手](#快速上手)
-    - [工作流](#工作流)
-    - [命令行](#命令行)
-    - [GUI软件](#GUI-软件)
-    - [Docker](#Docker)
-- [📖 详细教程](./docs/tutorial.md)
-- [🗓️ 更新日志](./CHANGELOG.md)
-- [❤️ 赞赏](#赞赏)
-- [👀 关注(更新订阅+答疑交流)](#关注)
-- [📣 免责声明](#免责声明)
-- [⚖️ 许可证](#许可证)
 
 ## 特点
 
@@ -111,21 +78,13 @@
 - 接口源：
 
 ```bash
-https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-```
-
-```bash
-https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+http://git.xn--2os270e.site/iptv.m3u
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+http://git.xn--2os270e.site/iptv.txt
 ```
 
 - 数据源：
